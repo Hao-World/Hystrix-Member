@@ -4,7 +4,7 @@
  * 创建日期:
  * 版权归属:每特教育|蚂蚁课堂所有 www.itmayiedu.com
  */
-package com.itmayiedu.controller;
+package com.hao.controller;
 
 import java.util.HashMap;
 import java.util.Map;
